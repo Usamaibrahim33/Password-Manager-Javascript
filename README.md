@@ -9,7 +9,7 @@ The Password Manager project is a secure web application designed to help users 
   
   Users can create an account, log in securely, and securely authenticate themselves using industry-standard encryption techniques.
   # Secure Data Transmission:
-      All data transmitted between the front-end and back-end is encrypted to ensure confidentiality and prevent unauthorized access.
+  All data transmitted between the front-end and back-end is encrypted to ensure confidentiality and prevent unauthorized access.
   # Password Storage:
       Users can securely store website URLs, usernames, and passwords within the application. All stored passwords are encrypted using robust encryption algorithms to protect sensitive information.
   # Password Generation: 
