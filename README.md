@@ -4,7 +4,7 @@ The Password Manager project is a secure web application designed to help users 
 
 
 
-# Features
+# Features:
   # User Authentication
   
   Users can create an account, log in securely, and securely authenticate themselves using industry-standard encryption techniques.
